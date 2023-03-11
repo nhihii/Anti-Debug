@@ -1,4 +1,5 @@
 # Anti-Debug
+<https://1nhihi.wordpress.com/2023/03/11/anti-debug-2/>
 # Trong phần trên đầu tiên thì xem một vài cách trỏ tới PEB đó là 
 
 ví dụ trỏ tới PEB trong x32, x64
